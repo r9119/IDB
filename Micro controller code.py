@@ -18,11 +18,11 @@ WIFI_PASSWORD = ""
 
 # ThingSpeak MQTT credentials
 MQTT_SERVER = "mqtt3.thingspeak.com"
-MQTT_USERNAME = "DxUcGQ4oLh0nDSE0EiUMHzE"
-MQTT_PASSWORD = "hBHmbSZEbzhwWkgzoQsDM+SE"
-MQTT_CLIENT_ID = "DxUcGQ4oLh0nDSE0EiUMHzE"
-CHANNEL_ID = "2483268"
-WRITE_API_KEY = "LG2B6O3D5JBKT1OV"
+MQTT_USERNAME = ""
+MQTT_PASSWORD = ""
+MQTT_CLIENT_ID = ""
+CHANNEL_ID = ""
+WRITE_API_KEY = ""
 
 # FeatherWing ESP32 AirLift, nRF52840
 cs = digitalio.DigitalInOut(board.D13)
